@@ -9,6 +9,7 @@
 
 
 
+
 ## 📖 Overview  
 This project predicts the **sex of penguins** using machine learning and the **Palmer Penguins dataset**.  
 Traditional DNA-based methods are invasive 🧬 — so here we build a **non-invasive, data-driven pipeline** using physical traits like:  
